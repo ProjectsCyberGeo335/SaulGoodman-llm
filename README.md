@@ -2,8 +2,13 @@
 ## RU
 SaulGoodman-llm -> LLM c RAG и реранкером на основе трудового кодекса
 ### Основные элементы:
-* data -> папка с документами
-* и оболочка, которая послужет дальней доработкке пет-проекта
+* app -> оболочка всего проекта
+    * data -> папка с документами
+    * llm -> папка с моделью
+    * model_repository/models/qwen3_8b/1/model.py -> 
+    * model_repository/models/qwen3_8b/config.pbtxt -> 
+* client.py ->
+* init.py -> 
 ## EN
 SaulGoodman-llm -> LLM with RAG and reranker for civil code
 ### Core elements:
