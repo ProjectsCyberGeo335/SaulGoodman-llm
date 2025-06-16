@@ -1,2 +1,2 @@
-# SaulGoodman-llm
-SaulGoodman-llm - LLM with RAG and reranker for civil code
+# saulGoodman-llm
+SaulGoodman-llm -> LLM with RAG and reranker for civil code
